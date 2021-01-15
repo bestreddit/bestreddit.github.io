@@ -6,6 +6,7 @@ import data from '../data/data.js'
     makes = "",
     models = "",
     types = "";
+    let filter_array=[];
     
     for (var i = 0; i < data.length; i++) {if (window.CP.shouldStopExecution(0)) break;
       var make = data[i].make,
@@ -17,18 +18,21 @@ import data from '../data/data.js'
       image = data[i].image;
     
       //create product cards
-      products += "<div onclick='doalert(this)' class='card-viewer col-sm-4 product' data-make='" + make + "' data-model='" + model + "' data-type='" + type + "' data-Link='" + rawLink + "'><div class='product-inner text-center'><img src='" + image + "'><br />SubReddit: " + make + "<br />Type: " + type + "<br />Link:<a href="+Link+">Here</a></div></div>";
+      products += "<div  class='card-viewer col-sm-4 product' data-make='" + make + "' data-model='" + model + "' data-type='" + type + "' data-Link='" + rawLink + "'><div class='product-inner text-center'><br />SubReddit: " + make + "<br />Type: " + type + "<br /><a href='https://www.reddit.com"+Link+"'>"+Link+"</a></div></div>";
     
-      //create dropdown of makes
-      if (makes.indexOf("<option value='" + make + "'>" + make + "</option>") == -1) {
-        makes += "<option value='" + make + "'>" + make + "</option>";
-      }
+
     
 
     
       //create dropdown of types
       if (types.indexOf("<option value='" + type + "'>" + type + "</option>") == -1) {
-        types += "<option value='" + type + "'>" + type + "</option>";
+        if(filter_array.includes(type))
+        {
+          types += "<option value='" + type + "'>" + type + "</option>";
+        }
+          filter_array.push(type)
+         
+       
       }
     }window.CP.exitedLoop(0);
     
@@ -86,5 +90,5 @@ import data from '../data/data.js'
         let test_value=document.getElementById("form-imput").value
         if(test_value==""){}
     })
-    //# sourceURL=pen.js
+
  
