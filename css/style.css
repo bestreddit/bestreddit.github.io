@@ -14,3 +14,8 @@ body {
     max-width: 120px;
     
 }
+.tag{
+ margin-left: 80px;
+ margin-right: 80px;
+ border-radius: 6em;
+}

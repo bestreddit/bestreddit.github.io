@@ -45,11 +45,6 @@ export default [
     "Link": "/r/vuej/"
   },
   {
-    "make": "vuejs",
-    "type": "Programming",
-    "Link": "/r/vuej/"
-  },
-  {
     "make": "announcements",
     "type": "Information",
     "Link": "/r/announcements"
@@ -356,6 +351,476 @@ export default [
     "make": "teenagers",
     "type": "Entertainment/Comedy",
     "Link": "r/teenagers"
-  }
+  },
+{
+  "make":"Freebies",
+  "type":"MoneySaving",
+  "Link":"/r/Freebies"
+},
+{
+  "make":"buildapcsales",
+  "type":"MoneySaving",
+  "Link":"/r/buildapcsales"
+},
+{
+  "make":"buyitforlife",
+  "type":"MoneySaving",
+  "Link":"/r/buyitforlife"
+},
+{
+  "make":"frugalmalefashion",
+  "type":"MoneySaving",
+  "Link":"/r/frugalmalefashion"
+},
+{
+  "make":"gamedeals",
+  "type":"MoneySaving",
+  "Link":"/r/gamedeals"
+},
+{
+  "make":"AppHookup",
+  "type":"MoneySaving",
+  "Link":"/r/AppHookup"
+},
+{
+  "make":"beermoney",
+  "type":"MoneySaving",
+  "Link":"/r/beermoney"
+},
+{
+  "make":"frugal",
+  "type":"MoneySaving",
+  "Link":"/r/frugal"
+},
+{
+  "make":"Pareidolia",
+  "type":"Pictures",
+  "Link":"/r/Pareidolia",
+},
+{
+  "make":"perfecttiming",
+  "type":"Pictures",
+  "Link":"/r/perfecttiming",
+},
+{
+  "make":"ImaginaryLandscapes",
+  "type":"Pictures",
+  "Link":"/r/ImaginaryLandscapes",
+},
+{
+  "make":"TreesSuckingOnThings",
+  "type":"Pictures",
+  "Link":"/r/TreesSuckingOnThings",
+},
+{
+  "make":"animalsbeingjerks",
+  "type":"Entertainment/Animals",
+  "Link":"/r/animalsbeingjerks",
+},
+{
+  "make":"BirdsWithArms",
+  "type":"Entertainment/Animals",
+  "Link":"/r/BirdsWithArms",
+},
+{
+  "make":"trollinganimals",
+  "type":"Entertainment/Animals",
+  "Link":"/r/trollinganimals",
+},
+{
+  "make":"gentlemanimals",
+  "type":"Entertainment/Animals",
+  "Link":"/r/gentlemanimals",
+},
+{
+  "make":"GamePhysics",
+  "type":"Entertainment",
+  "Link":"/r/GamePhysics"
+},
+{
+  "make":"Unexpected",
+  "type":"Entertainment",
+  "Link":"/r/Unexpected"
+},
+{
+  "make":"gifsound",
+  "type":"Entertainment",
+  "Link":"/r/gifsound"
+},
+{
+  "make":"chemicalreactiongifs",
+  "type":"Entertainment",
+  "Link":"/r/chemicalreactiongifs"
+},
+{
+  "make":"BlackpeopleGifs",
+  "type":"Entertainment",
+  "Link":"/r/BlackpeopleGifs"
+},
+{
+  "make":"CreepyGaming",
+  "type":"Gaming",
+  "Link":"/r/CreepyGaming"
+},
+{
+  "make":"gamemusic",
+  "type":"Gaming",
+  "Link":"/r/gamemusic"
+},
+{
+  "make":"playdate",
+  "type":"Gaming",
+  "Link":"/r/playdate"
+},
+{
+  "make":"battlestations",
+  "type":"Gaming",
+  "Link":"/r/battlestations"
+},
+{
+  "make":"FiftyFifty",
+  "type":"Entertainment",
+  "Link":"/r/FiftyFifty"
+},
+{
+  "make":"CrazyIdeas",
+  "type":"Entertainment",
+  "Link":"/r/CrazyIdeas"
+},
+{
+  "make":"MildlyInteresting",
+  "type":"Entertainment",
+  "Link":"/r/MildlyInteresting"
+},
+{
+  "make":"LearnUselessTalents",
+  "type":"Entertainment",
+  "Link":"/r/LearnUselessTalents"
+},
+{
+  "make":"thingsforants",
+  "type":"Entertainment",
+  "Link":"/r/thingsforants"
+},
+{
+  "make":"NotTheOnion",
+  "type":"Entertainment",
+  "Link":"/r/NotTheOnion"
+},
+{
+  "make":"ifyoulikeblank",
+  "type":"Entertainment",
+  "Link":"/r/ifyoulikeblank"
+},
+{
+  "make":"dataisbeautiful",
+  "type":"Entertainment",
+  "Link":"/r/dataisbeautiful"
+},
+{
+  "make":"wheredidthesodago",
+  "type":"Entertainment",
+  "Link":"/r/wheredidthesodago"
+},
+{
+  "make":"fatpeoplestories",
+  "type":"Entertainment",
+  "Link":"/r/fatpeoplestories"
+},
+{
+  "make":"nostalgia",
+  "type":"Entertainment",
+  "Link":"/r/nostalgia"
+},
+{
+  "make":"MorbidReality",
+  "type":"Entertainment",
+  "Link":"/r/MorbidReality"
+},
+{
+  "make":"pettyrevenge",
+  "type":"Entertainment",
+  "Link":"/r/pettyrevenge"
+},
+{
+  "make":"LucidDreaming",
+  "type":"Entertainment",
+  "Link":"/r/LucidDreaming"
+},
+{
+  "make":"colorizedhistory",
+  "type":"Entertainment",
+  "Link":"/r/colorizedhistory"
+},
+{
+  "make":"techsupportmacgyver",
+  "type":"Entertainment",
+  "Link":"/r/techsupportmacgyver"
+},
+{
+  "make":"internetisbeautiful",
+  "type":"Entertainment",
+  "Link":"/r/internetisbeautiful"
+},
+{
+  "make":"outside",
+  "type":"Entertainment",
+  "Link":"/r/outside"
+},
+{
+  "make":"futurology",
+  "type":"Entertainment",
+  "Link":"/r/futurology"
+},
+{
+  "make":"puzzles",
+  "type":"Entertainment",
+  "Link":"/r/puzzles"
+},
+{
+  "make":"nononono ",
+  "type":"Entertainment",
+  "Link":"/r/nononono "
+},
+{
+  "make":"nosleep",
+  "type":"Entertainment",
+  "Link":"/r/nosleep"
+},
+{
+  "make":"whatisthisthing",
+  "type":"Entertainment",
+  "Link":"/r/whatisthisthing"
+},
+{
+  "make":"Android",
+  "type":"Technology",
+  "Link":"/r/Android"
+  },
+{
+  "make":"androidapps",
+  "type":"Technology",
+  "Link":"/r/androidapps"
+  },
+{
+  "make":"AndroidWear",
+  "type":"Technology",
+  "Link":"/r/AndroidWear"
+  },
+{
+  "make":"apple",
+  "type":"Technology",
+"Link":"/r/apple"
+},
+{
+  "make":"AppleWatch",
+  "type":"Technology",
+"Link":"/r/AppleWatch"
+},
+{
+  "make":"battlestations",
+  "type":"Technology",
+"Link":"/r/battlestations"
+},
+{
+  "make":"buildapc",
+  "type":"Technology",
+"Link":"/r/buildapc"
+},
+{
+  "make":"computers",
+  "type":"Technology",
+"Link":"/r/computers"
+},
+{
+  "make":"google",
+  "type":"Technology",
+"Link":"/r/google"
+},
+{
+  "make":"hardware",
+  "type":"Technology",
+"Link":"/r/hardware"
+},
+{
+  "make":"ios",
+  "type":"Technology",
+"Link":"/r/ios"
+},
+{
+  "make":"ipad",
+  "type":"Technology",
+"Link":"/r/ipad"
+},
+{
+  "make":"iphone",
+  "type":"Technology",
+"Link":"/r/iphone"
+},
+{
+  "make":"learnprogramming",
+  "type":"Technology",
+"Link":"/r/learnprogramming"
+},
+{
+  "make":"microsoft",
+  "type":"Technology",
+"Link":"/r/microsoft"
+},
+{
+  "make":"oculus",
+  "type":"Technology",
+"Link":"/r/oculus"
+},
+{
+  "make":"playstation",
+  "type":"Technology",
+"Link":"/r/playstation"
+},
+{
+  "make":"programming",
+  "type":"Technology",
+"Link":"/r/programming"
+},
+{
+  "make":"software",
+  "type":"Technology",
+"Link":"/r/software"
+},
+{
+  "make":"startups",
+  "type":"Technology",
+"Link":"/r/startups"
+},
+{
+  "make":"Surface",
+  "type":"Technology",
+"Link":"/r/Surface"
+},
+{
+  "make":"tech",
+  "type":"Technology",
+"Link":"/r/tech"
+},
+{
+  "make":"virtualreality",
+  "type":"Technology",
+"Link":"/r/virtualreality"
+},
+{
+  "make":"web_design",
+  "type":"Technology",
+"Link":"/r/web_design"
+},
+{
+  "make":"Windows10",
+  "type":"Technology",
+"Link":"/r/Windows10"
+},
+{
+  "make":"xboxone",
+  "type":"Technology",
+"Link":"/r/xboxone"
+},
+{
+  "make":"Futurology",
+  "type":"Technology",
+"Link":"/r/Futurology"
+},
+{
+  "make":"AppleEnthusiasts",
+  "type":"Technology",
+"Link":"/r/AppleEnthusiasts"
+},
+{
+  "make":"OSXTweaks",
+  "type":"Technology",
+"Link":"/r/OSXTweaks"
+},
+{
+  "make":"Bitcoin",
+  "type":"Technology",
+"Link":"/r/Bitcoin"
+},
+{
+  "make":"windowsinsiders",
+  "type":"Technology",
+"Link":"/r/windowsinsiders"
+},
+{
+  "make":"macOS",
+  "type":"Technology",
+"Link":"/r/macOS"
+},
+{
+  "make":"headphones",
+  "type":"Technology",
+"Link":"/r/headphones"
+},
+{
+  "make":"linux",
+  "type":"Technology",
+"Link":"/r/linux"
+},
+{
+  "make":"macsetups",
+  "type":"Technology",
+"Link":"/r/macsetups"
+},
+{
+  "make":"AppleMusic",
+  "type":"Technology",
+"Link":"/r/AppleMusic"
+},
+{
+  "make":"technologymeta",
+  "type":"Technology",
+"Link":"/r/technologymeta"
+},
+{
+  "make":"asktechnology",
+  "type":"Technology",
+"Link":"/r/asktechnology"
+},
+{
+  "make":"technologyporn",
+  "type":"Technology",
+"Link":"/r/technologyporn"
+},
+{
+  "make":"Geek",
+  "type":"Technology",
+"Link":"/r/Geek"
+},
+{
+  "make":"techolitics",
+  "type":"Technology",
+"Link":"/r/techolitics"
+},
+{
+  "make":"pcgamingtechsupport",
+  "type":"Technology",
+"Link":"/r/pcgamingtechsupport"
+},
+{
+  "make":"talesfromtechsupport",
+  "type":"Technology",
+"Link":"/r/talesfromtechsupport"
+},
+{
+  "make":"CSEducation",
+  "type":"Technology",
+"Link":"/r/CSEducation"
+},
+{
+  "make":"computertechs",
+  "type":"Technology",
+"Link":"/r/computertechs"
+},
+{
+  "make":"networking",
+  "type":"Technology",
+"Link":"/r/networking"
+},
   
 ]
