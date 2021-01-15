@@ -320,8 +320,42 @@ export default [
     "Link": "r/bookhaul"
   },
   {
-    "make": "whatsthatbook",
-    "type": "Entertainment/Books",
-    "Link": "r/whatsthatbook"
+    "make": "AdviceAnimals",
+    "type": "Entertainment/Comedy",
+    "Link": "r/AdviceAnimals"
+  },
+  {
+    "make": "MemeEconomy",
+    "type": "Entertainment/Comedy",
+    "Link": "r/MemeEconomy"
+  },{
+    "make": "ComedyCemetery",
+    "type": "Entertainment/Comedy",
+    "Link": "r/ComedyCemetery"
+  },{
+    "make": "memes",
+    "type": "Entertainment/Comedy",
+    "Link": "r/memes"
+  },{
+    "make": "dankmemes",
+    "type": "Entertainment/Comedy",
+    "Link": "r/dankmemes"
+  },{
+    "make": "PrequelMemes",
+    "type": "Entertainment/Comedy",
+    "Link": "r/PrequelMemes"
+  },{
+    "make": "terriblefacebookmemes",
+    "type": "Entertainment/Comedy",
+    "Link": "r/terriblefacebookmemes"
+  },{
+    "make": "funny",
+    "type": "Entertainment/Comedy",
+    "Link": "r/funny"
+  },{
+    "make": "teenagers",
+    "type": "Entertainment/Comedy",
+    "Link": "r/teenagers"
   }
+  
 ]
