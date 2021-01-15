@@ -1,0 +1,16 @@
+body {
+	padding-top: 30px;
+}
+.product {
+	margin-bottom: 30px;
+}
+.product-inner {
+	box-shadow: 0 0 10px rgba(0,0,0,.2);
+	padding: 10px;
+}
+.product img {
+    margin-bottom: 10px;
+    max-height: 120px;
+    max-width: 120px;
+    
+}
