@@ -1019,8 +1019,24 @@ export default [
 },
 {
   "make":"nextfuckinglevel",
-  "type":"",
-"Link":"r/nextfuckinglevel"
+  "type":"Information",
+  "Link":"r/nextfuckinglevel",
+  "new":"True"
+},
+{
+  "make":"introvert",
+  "type":"Community",
+  "Link":"r/introvert"
+},
+{
+  "make":"Christianity",
+  "type":"Community/Religion",
+  "Link":"r/Christianity"
+},
+{
+  "make":"extroverts",
+  "type":"Community",
+  "Link":"r/extroverts"
 },
 
 
