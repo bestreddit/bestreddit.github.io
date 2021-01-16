@@ -822,5 +822,88 @@ export default [
   "type":"Technology",
 "Link":"/r/networking"
 },
+{
+  "make":"ShowerThoughts",
+  "type":"Entertainment/Fun",
+"Link":"/r/ShowerThoughts"
+},
+{
+  "make":"Today I F--ked Up",
+  "type":"Entertainment/Fun",
+"Link":"r/TIFU"
+},
+{
+  "make":"CozyPlaces",
+  "type":"Entertainment/Fun",
+"Link":"r/CozyPlaces"
+},
+{
+  "make":"GetMotivated",
+  "type":"Entertainment/Motivation",
+"Link":"r/GetMotivated"
+},
+{
+  "make":"YouShouldKnow",
+  "type":"Entertainment/Information",
+"Link":"r/YouShouldKnow"
+},
+{
+  "make":"Tinder",
+  "type":"Entertainment",
+"Link":"r/Tinder"
+},
+{
+  "make":"TodayILearned",
+  "type":"Entertainment",
+"Link":"r/TodayILearned"
+},
+{
+  "make":"BikiniBottomTwitter",
+  "type":"Entertainment/Fun",
+"Link":"r/BikiniBottomTwitter"
+},
+{
+  "make":"Battlestations",
+  "type":"Entertainment/Fun",
+"Link":"r/Battlestations"
+},
+{
+  "make":"BossFight",
+  "type":"Entertainment/Fun",
+"Link":"r/BossFight"
+},
+{
+  "make":"ImaginaryMonsters",
+  "type":"Entertainment/Fun",
+"Link":"r/ImaginaryMonsters"
+},
+{
+  "make":"WritingPrompts",
+  "type":"Entertainment/Information",
+"Link":"/r/WritingPrompts"
+},
+{
+  "make":"PhotoshopBattles",
+  "type":"Entertainment/Photograph",
+"Link":"/r/PhotoshopBattles"
+},
+{
+  "make":"EducationalGIFs",
+  "type":"Entertainment/Information",
+"Link":"/r/EducationalGIFs"
+},
+{
+  "make":"DataIsBeautiful",
+  "type":"Entertainment/Information",
+"Link":"/r/DataIsBeautiful"
+},
+{
+  "make":"ChangeMyView",
+  "type":"Information",
+"Link":"/r/ChangeMyView"
+},
+
+
+
   
 ]
