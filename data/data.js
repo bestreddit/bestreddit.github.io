@@ -902,6 +902,126 @@ export default [
   "type":"Information",
 "Link":"/r/ChangeMyView"
 },
+{
+  "make":"Futurology",
+  "type":"Entertainment",
+  "Link":"r/Futurology"
+  },
+{
+  "make":"technology",
+  "type":"Technology",
+"Link":"r/technology"
+},
+{
+  "make":"Nonononoyes",
+  "type":"Entertainment",
+"Link":"r/Nonononoyes"
+},
+{
+  "make":"ReverseAnimalRescue",
+  "type":"Entertainment",
+"Link":"r/ReverseAnimalRescue"
+},
+{
+  "make":"NatureIsFuckingLit",
+  "type":"Photography",
+"Link":"r/NatureIsFuckingLit"
+},
+{
+  "make":"Instant_regret",
+  "type":"Entertainment",
+"Link":"r/Instant_regret"
+},
+{
+  "make":"MemeEconomy",
+  "type":"Entertainment",
+"Link":"r/MemeEconomy"
+},
+{
+  "make":"listentothis",
+  "type":"Entertainment/Music",
+"Link":"r/listentothis"
+},
+{
+  "make":"Books",
+  "type":"Information",
+"Link":"r/Books"
+},
+{
+  "make":"TheOcho",
+  "type":"Entertainment",
+"Link":"r/TheOcho"
+},
+{
+  "make":"Gaming",
+  "type":"Entertainment",
+"Link":"r/Gaming"
+},
+{
+  "make":"HoldMyBeer",
+  "type":"Entertainment",
+"Link":"r/HoldMyBeer"
+},
+{
+  "make":"HoldMyCosmo",
+  "type":"Entertainment",
+"Link":"r/HoldMyCosmo"
+},
+{
+  "make":"HoldMyJuiceBox",
+  "type":"Entertainment",
+"Link":"r/HoldMyJuiceBox"
+},
+{
+  "make":"HoldMyRedBull",
+  "type":"Entertainment",
+"Link":"r/HoldMyRedBull"
+},
+{
+  "make":"BrandNewSentence",
+  "type":"Information",
+"Link":"r/BrandNewSentence"
+},
+{
+  "make":"PraiseTheCameraMan",
+  "type":"Entertainment/Photography",
+"Link":"r/PraiseTheCameraMan"
+},
+{
+  "make":"battlestations",
+  "type":"Entertainment",
+"Link":"r/battlestations"
+},
+{
+  "make":"Digital",
+  "type":"Technology/Information",
+"Link":"r/Digital"
+},
+{
+  "make":"todayilearned",
+  "type":"Information",
+"Link":"r/todayilearned"
+},
+{
+  "make":"RenewableEnergy",
+  "type":"Information",
+"Link":"r/RenewableEnergy"
+},
+{
+  "make":"100yearsago",
+  "type":"Information",
+"Link":"r/100yearsago"
+},
+{
+  "make":"nutrition",
+  "type":"Information",
+"Link":"r/nutrition"
+},
+{
+  "make":"nextfuckinglevel",
+  "type":"",
+"Link":"r/nextfuckinglevel"
+},
 
 
 
