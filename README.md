@@ -47,6 +47,8 @@ The entire datas related to the subreddits are contained in the `/data/data.js`.
 
  Yes a special page to thank them !!
 
+Feel free to open an Issue if you get stuck somewhere..  
+Let's Get Started 🚗🚗
 #
 
 ### Home Page
