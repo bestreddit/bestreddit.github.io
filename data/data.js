@@ -1,5 +1,10 @@
 export default [
   {
+  "make": "opensource",
+  "type": "Programming",
+  "Link": "/r/opensource"
+},
+  {
     "make": "Programming",
     "type": "Programming",
     "Link": "/r/programmin/"
@@ -7,7 +12,7 @@ export default [
   {
     "make": "ProgrammerHumor",
     "type": "Programming",
-    "Link": "/r/ProgrammerHumo/"
+    "Link": "/r/ProgrammerHumor/"
   },
   {
     "make": "dotnet",
@@ -1037,9 +1042,5 @@ export default [
   "make":"extroverts",
   "type":"Community",
   "Link":"r/extroverts"
-},
-
-
-
-  
+}, 
 ]
