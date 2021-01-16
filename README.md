@@ -40,9 +40,17 @@ The entire datas related to the subreddits are contained in the `/data/data.js`.
  🎇 You can also make change to the `website` and submit a Pull Request. New Suggestions,Features,Bug-Fixes,Color-Changes,UI-Changes etc.. All kind of contrubitons are accepted
  and make sure you keep an eye on `data.js` which is the core of the repo and make effort to increase the DB
  
- ### To the contributors with love 
+ ### To the contributors with love 💓
+ We really love to acknowledge your contribution.No matter what you contribute every contribution really means a lot to this open source world.
+ You can find the people who has contributed to the project here (https://bestreddit.github.io/thanks.html)  
+ 
+
+ Yes a special page to thank them !!
 
 #
 
 ### Home Page
 ![BestReddit](https://github.com/bestreddit/bestreddit-asset/blob/main/bestreddit.PNG)
+
+### Acknowledgement
+"Eric Winton"- Codepen.io
