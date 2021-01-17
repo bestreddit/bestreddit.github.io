@@ -5,6 +5,11 @@ export default [
   "Link": "/r/opensource"
 },
   {
+  "make": "hackernews",
+  "type": "Technology/News",
+  "Link": "r/hackernews"
+},
+  {
     "make": "Programming",
     "type": "Programming",
     "Link": "/r/programmin/"
