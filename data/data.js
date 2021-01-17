@@ -27,32 +27,32 @@ export default [
   {
     "make": "csharp",
     "type": "Programming",
-    "Link": "/r/cshar"
+    "Link": "/r/csharp"
   },
   {
     "make": "webdev",
     "type": "Programming",
-    "Link": "/r/webde"
+    "Link": "/r/webdev"
   },
   {
     "make": "dartlang",
     "type": "Programming",
-    "Link": "/r/dartlan"
+    "Link": "/r/dartlang"
   },
   {
     "make": "golang",
     "type": "Programming",
-    "Link": "/r/golan"
+    "Link": "/r/golang"
   },
   {
     "make": "Dance",
     "type": "Entertainment/Dance",
-    "Link": "/r/Danc"
+    "Link": "/r/Dance"
   },
   {
     "make": "vuejs",
     "type": "Programming",
-    "Link": "/r/vuej/"
+    "Link": "/r/vuejs/"
   },
   {
     "make": "announcements",
