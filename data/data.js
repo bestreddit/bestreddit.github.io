@@ -7,7 +7,7 @@ export default [
   {
   "make": "hackernews",
   "type": "Technology/News",
-  "Link": "r/hackernews"
+  "Link": "/r/hackernews"
 },
   {
     "make": "Programming",
@@ -22,7 +22,7 @@ export default [
   {
     "make": "dotnet",
     "type": "Programming",
-    "Link": "/r/dotne/"
+    "Link": "/r/dotnet/"
   },
   {
     "make": "csharp",
@@ -292,75 +292,75 @@ export default [
   {
     "make": "booksuggestions",
     "type": "Entertainment/Books",
-    "Link": "r/booksuggestions"
+    "Link": "/r/booksuggestions"
   },
   {
     "make": "bookclub",
     "type": "Entertainment/Books",
-    "Link": "r/bookclub"
+    "Link": "/r/bookclub"
   },
   {
     "make": "writing",
     "type": "Entertainment/Books",
-    "Link": "r/writing"
+    "Link": "/r/writing"
   },
   {
     "make": "bookexchange",
     "type": "Entertainment/Books",
-    "Link": "r/bookexchange"
+    "Link": "/r/bookexchange"
   },
   {
     "make": "YAlit",
     "type": "Entertainment/Books",
-    "Link": "r/YAlit"
+    "Link": "/r/YAlit"
   },
   {
     "make": "AudioBooks",
     "type": "Entertainment/Books",
-    "Link": "r/AudioBooks"
+    "Link": "/r/AudioBooks"
   },
   {
     "make": "bookhaul",
     "type": "Entertainment/Books",
-    "Link": "r/bookhaul"
+    "Link": "/r/bookhaul"
   },
   {
     "make": "AdviceAnimals",
     "type": "Entertainment/Comedy",
-    "Link": "r/AdviceAnimals"
+    "Link": "/r/AdviceAnimals"
   },
   {
     "make": "MemeEconomy",
     "type": "Entertainment/Comedy",
-    "Link": "r/MemeEconomy"
+    "Link": "/r/MemeEconomy"
   },{
     "make": "ComedyCemetery",
     "type": "Entertainment/Comedy",
-    "Link": "r/ComedyCemetery"
+    "Link": "/r/ComedyCemetery"
   },{
     "make": "memes",
     "type": "Entertainment/Comedy",
-    "Link": "r/memes"
+    "Link": "/r/memes"
   },{
     "make": "dankmemes",
     "type": "Entertainment/Comedy",
-    "Link": "r/dankmemes"
+    "Link": "/r/dankmemes"
   },{
     "make": "PrequelMemes",
     "type": "Entertainment/Comedy",
-    "Link": "r/PrequelMemes"
+    "Link": "/r/PrequelMemes"
   },{
     "make": "terriblefacebookmemes",
     "type": "Entertainment/Comedy",
-    "Link": "r/terriblefacebookmemes"
+    "Link": "/r/terriblefacebookmemes"
   },{
     "make": "funny",
     "type": "Entertainment/Comedy",
-    "Link": "r/funny"
+    "Link": "/r/funny"
   },{
     "make": "teenagers",
     "type": "Entertainment/Comedy",
-    "Link": "r/teenagers"
+    "Link": "/r/teenagers"
   },
 {
   "make":"Freebies",
@@ -1047,5 +1047,5 @@ export default [
   "make":"extroverts",
   "type":"Community",
   "Link":"r/extroverts"
-}, 
+},
 ]
