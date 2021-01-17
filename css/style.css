@@ -21,3 +21,9 @@ border-radius: 50px;
 display:block;
 border:1px solid #775fe4c0;
 }
+.center{
+	text-align: center;
+}
+.hdr-link{
+	margin:0 12px;
+}
