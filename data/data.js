@@ -265,6 +265,11 @@ export default [
     "Link": "/r/iamverysmart"
   },
   {
+    "make": "Indiewebdev",
+    "type": "Programming",
+    "Link": "/r/Indiewebdev"
+  },
+  {
     "make": "TalesFromYourServer",
     "type": "Entertainment/Businesses",
     "Link": "/r/TalesFromYourServer"
