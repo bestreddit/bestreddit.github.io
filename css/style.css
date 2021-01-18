@@ -7,6 +7,7 @@ body {
 .product-inner {
 	box-shadow: 0 0 10px rgba(0,0,0,.2);
 	padding: 10px;
+	border-radius: 8px;
 }
 .product img {
     margin-bottom: 10px;
@@ -15,7 +16,14 @@ body {
     
 }
 .tag{
- margin-left: 80px;
- margin-right: 80px;
- border-radius: 6em;
+margin: 0 80px 18px;
+border-radius: 50px;
+display:block;
+border:1px solid #775fe4c0;
+}
+.center{
+	text-align: center;
+}
+.hdr-link{
+	margin:0 12px;
 }
