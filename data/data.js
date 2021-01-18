@@ -12,7 +12,7 @@ export default [
   {
     "make": "Programming",
     "type": "Programming",
-    "Link": "/r/programmin/"
+    "Link": "/r/programming/"
   },
   {
     "make": "ProgrammerHumor",
