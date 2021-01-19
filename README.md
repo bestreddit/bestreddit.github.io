@@ -57,3 +57,6 @@ Let's Get Started 🚗🚗
 
 ### Acknowledgement
 "Eric Winton"- Codepen.io
+
+### License
+This project is licensed under the MIT license, Copyright (c) 2020 Tibin Sunny. For more information see `LICENSE.md`
