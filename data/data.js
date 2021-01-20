@@ -1053,4 +1053,34 @@ export default [
   "type":"Community",
   "Link":"/r/extroverts"
 },
+{
+  "make":"Africa",
+  "type":"Community",
+  "Link":"/r/Africa"
+},
+{
+  "make":"Gardening",
+  "type":"Community",
+  "Link":"/r/Gardening"
+},
+{
+  "make":"Biotech",
+  "type":"Community",
+  "Link":"/r/biotech"
+},
+{
+  "make":"Neural Lace",
+  "type":"Community",
+  "Link":"/r/neurallace"
+},
+{
+  "make":"Logic",
+  "type":"Community",
+  "Link":"/r/logic"
+},
+{
+  "make":"Neural Engineering",
+  "type":"Community",
+  "Link":"/r/neuralengineering"
+},
 ]
