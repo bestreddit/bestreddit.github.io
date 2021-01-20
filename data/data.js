@@ -10,6 +10,31 @@ export default [
   "Link": "/r/hackernews"
 },
   {
+  "make": "privacy",
+  "type": "Privacy",
+  "Link": "/r/privacy/"
+},
+  {
+  "make": "privacytoolsIO",
+  "type": "Privacy",
+  "Link": "/r/privacytoolsIO/"
+},
+  {
+  "make": "firefox",
+  "type": "Privacy/Browsers",
+  "Link": "/r/firefox/"
+},
+  {
+  "make": "security",
+  "type": "Cyber Security",
+  "Link": "/r/security/"
+},
+  {
+  "make": "netsec",
+  "type": "Cyber Security",
+  "Link": "/r/netsec/"
+},
+  {
     "make": "Programming",
     "type": "Programming",
     "Link": "/r/programming/"

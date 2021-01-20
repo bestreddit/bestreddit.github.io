@@ -18,7 +18,7 @@ import data from '../data/data.js'
       image = data[i].image;
     
       //create product cards
-      products += "<div  class='card-viewer  col-sm-4 product' data-make='" + make + "' data-model='" + model + "' data-type='" + type + "' data-Link='" + rawLink + "'><div class='product-inner text-center'><br />SubReddit: " + make + "<br /><br>Tags:" + type + "<br /><br><div class='tag'><a href='https://www.reddit.com"+Link+"' rel=noreferrer>"+Link+"</a></div></div></div>";
+      products += "<div  class='card-viewer  col-sm-4 product' data-make='" + make + "' data-model='" + model + "' data-type='" + type + "' data-Link='" + rawLink + "'><div class='product-inner text-center'><br />SubReddit : " + make + "<br /><br>Tags : <span class=tag-type>" + type + "</span><br /><br><div class='tag'><a href='https://www.reddit.com"+Link+"' rel=noreferrer>"+Link+"</a></div></div></div>";
     
 
     

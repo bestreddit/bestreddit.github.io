@@ -27,3 +27,7 @@ border:1px solid #775fe4c0;
 .hdr-link{
 	margin:0 12px;
 }
+.tag-type{
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 500;
+}
