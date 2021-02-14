@@ -1053,4 +1053,9 @@ export default [
   "type":"Community",
   "Link":"/r/extroverts"
 },
+{
+  "make":"Data Scientist/CS Students",
+  "type":"Career",
+  "Link":"/r/datascience"
+},
 ]
