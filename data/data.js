@@ -10,6 +10,31 @@ export default [
   "Link": "/r/hackernews"
 },
   {
+  "make": "privacy",
+  "type": "Privacy",
+  "Link": "/r/privacy/"
+},
+  {
+  "make": "privacytoolsIO",
+  "type": "Privacy",
+  "Link": "/r/privacytoolsIO/"
+},
+  {
+  "make": "firefox",
+  "type": "Privacy/Browsers",
+  "Link": "/r/firefox/"
+},
+  {
+  "make": "security",
+  "type": "Cyber Security",
+  "Link": "/r/security/"
+},
+  {
+  "make": "netsec",
+  "type": "Cyber Security",
+  "Link": "/r/netsec/"
+},
+  {
     "make": "Programming",
     "type": "Programming",
     "Link": "/r/programming/"
@@ -1054,8 +1079,38 @@ export default [
   "Link":"/r/extroverts"
 },
 {
+
   "make":"Data Scientist/CS Students",
   "type":"Career",
   "Link":"/r/datascience"
 },
+  "make":"Africa",
+  "type":"Community",
+  "Link":"/r/Africa"
+},
+{
+  "make":"Gardening",
+  "type":"Community",
+  "Link":"/r/Gardening"
+},
+{
+  "make":"Biotech",
+  "type":"Community",
+  "Link":"/r/biotech"
+},
+{
+  "make":"Neural Lace",
+  "type":"Community",
+  "Link":"/r/neurallace"
+},
+{
+  "make":"Logic",
+  "type":"Community",
+  "Link":"/r/logic"
+},
+{
+  "make":"Neural Engineering",
+  "type":"Community",
+  "Link":"/r/neuralengineering"
+}
 ]
