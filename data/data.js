@@ -1079,6 +1079,11 @@ export default [
   "Link":"/r/extroverts"
 },
 {
+
+  "make":"Data Scientist/CS Students",
+  "type":"Career",
+  "Link":"/r/datascience"
+},
   "make":"Africa",
   "type":"Community",
   "Link":"/r/Africa"
@@ -1107,5 +1112,5 @@ export default [
   "make":"Neural Engineering",
   "type":"Community",
   "Link":"/r/neuralengineering"
-},
+}
 ]
