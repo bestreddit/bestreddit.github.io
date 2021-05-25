@@ -35,7 +35,7 @@ The entire data related to the subreddits are contained in the `/data/data.js`.
  ### Adding Data
  Make a Pull request after adding the data to `data.js`. It is that simple 🤗.
 
- I will be nice if you could mention that you are updating `data.js` in the pull request title.
+ It will be nice if you could mention that you are updating `data.js` in the pull request title.
 
  🎇 You can also make change to the `website` and submit a Pull Request. New Suggestions,Features,Bug-Fixes,Color-Changes,UI-Changes etc... All kind of contributions are accepted
  and make sure you keep an eye on `data.js` which is the core of the repo and make effort to increase the DB
