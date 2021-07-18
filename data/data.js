@@ -1113,5 +1113,10 @@ export default [
   "make":"Neural Engineering",
   "type":"Community",
   "Link":"/r/neuralengineering"
+},
+  {
+  "make":"embedded systems",
+  "type":"Community",
+  "Link":"/r/embedded"
 }
 ]
