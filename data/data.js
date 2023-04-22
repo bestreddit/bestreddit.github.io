@@ -718,11 +718,6 @@ export default [
 "Link":"/r/playstation"
 },
 {
-  "make":"programming",
-  "type":"Technology",
-"Link":"/r/programming"
-},
-{
   "make":"software",
   "type":"Technology",
 "Link":"/r/software"
@@ -1118,5 +1113,10 @@ export default [
   "make":"embedded systems",
   "type":"Community",
   "Link":"/r/embedded"
+},
+{
+  "make":"Fitness",
+  "type":"Community",
+  "Link":"/r/Fitness"
 }
 ]
